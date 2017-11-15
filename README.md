@@ -1,4 +1,4 @@
-# containerize
+# containerize [![npm](https://img.shields.io/npm/v/containerize.svg?style=flat-square)](https://npm.im/containerize)
 
 ## Usage
 
