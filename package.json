@@ -1,0 +1,14 @@
+{
+  "name": "containerize",
+  "version": "1.0.0",
+  "description": "create a Dockerfile for your Node.js app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tuan Anh Tran <me@tuananh.org> (https://tuananh.org)",
+  "license": "MIT",
+  "dependencies": {
+    "prettycli": "1.4.3"
+  }
+}
